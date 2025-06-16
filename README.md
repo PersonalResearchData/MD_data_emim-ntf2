@@ -4,7 +4,7 @@
   + https://amorphous.tf.chiba-u.jp/lecture.files/ms-workshop/molten.html
 
 + 実行環境
-  + Google Colabratory（Ubuntu 22.04.4 LTS）
+  + Google Colaboratory（Ubuntu 22.04.4 LTS）
     + https://colab.research.google.com/drive/1twcxzKxa5VFTOACHnngGYyVld54_EIsT?usp=sharing
 
 + 使用技術
