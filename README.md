@@ -15,6 +15,10 @@
 + 使用技術
   + LAMMPS
     + https://www.lammps.org/
+  + OVITO
+    + https://www.ovito.org/
+  + Python
+    + https://www.python.org/
 
 + シミュレーション動画
   + ![emim-ntf2_2000K_300K](https://github.com/user-attachments/assets/99e37447-9af9-47ff-a028-8d8337794686)
