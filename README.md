@@ -1,7 +1,12 @@
 # MD_data_emim-ntf2
 
-+ 参照先（入力プログラム作成）
-  + https://amorphous.tf.chiba-u.jp/lecture.files/ms-workshop/molten.html
++ 参照先
+  + 入力プログラム作成
+    + https://amorphous.tf.chiba-u.jp/lecture.files/ms-workshop/molten.html
+  + 関連論文
+    + イオン液体のMD計算の論文(カチオン)とアニオン
+      + https://pubs.acs.org/doi/10.1021/jp0362133
+      + https://pubs.acs.org/doi/10.1021/jp0476545
 
 + 実行環境
   + Google Colaboratory（Ubuntu 22.04.4 LTS）
